@@ -1,13 +1,7 @@
 package io.github.kaczmarek.remotekit.ui
 
 import android.bluetooth.BluetoothAdapter
-import android.bluetooth.BluetoothDevice
-import android.content.BroadcastReceiver
-import android.content.Context
-import android.content.Intent
-import android.content.IntentFilter
 import android.os.Bundle
-import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
 import io.github.kaczmarek.circledpad.CircleDPad
 import io.github.kaczmarek.circledpad.CircleDPad.Companion.BOTTOM_BUTTON
