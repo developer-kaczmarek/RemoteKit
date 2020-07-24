@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#4285f4</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorFont">#0D0C0C</color>
+    <color name="colorOnSurfacePrimaryEnabled">#262626</color>
+    <color name="colorOnSurfacePrimaryPressed">#000000</color>
+    <color name="colorSecondaryFont">#939393</color>
+    <color name="colorButtonFont">#FFFFFF</color>
+    <color name="colorShadow">#1A0D0C0C</color>
+    <color name="colorBackgroundOtherDevice">#FFEFD8</color>
+    <color name="colorTintOtherDevice">#FAA12F</color>
+    <color name="colorBackgroundSmartphoneDevice">#F0E6FA</color>
+    <color name="colorTintSmartphoneDevice">#B682E5</color>
+    <color name="colorBackgroundComputerDevice">#E1EBFA</color>
+    <color name="colorTintComputerDevice">#3C8BE1</color>
 </resources>

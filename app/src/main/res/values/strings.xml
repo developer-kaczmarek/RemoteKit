@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">RemoteKit</string>
+    <string name="app_name">Remote Kit</string>
+
+    <string name="error_empty_list_title">Сопряженные устройства не найдены</string>
+    <string name="error_bluetooth_is_disabled_description">Для получения списка сопряженных устройств активируйте Bluetooth</string>
+    <string name="error_not_bonded_device_description">Необходимо осуществить сопряжение с устройством для управления</string>
+    <string name="error_unknown_description">Произошла ошибка в приложении</string>
+
+    <string name="fragment_bonded_devices_go_to_settings">Настройки</string>
+    <string name="fragment_bonded_devices_turn_on_bluetooth">Активировать</string>
+
+    <string name="content_description_type_device">Активировать</string>
 </resources>
